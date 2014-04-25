@@ -1,1 +1,1 @@
-Coursework
+Stanford CS106A coursework
