@@ -1,0 +1,1 @@
+These are the problems that I solved while taking Stanford's Intro to CS course. 
